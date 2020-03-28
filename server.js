@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 8080;
 const parser = require('body-parser');
 var Shoppingcart = ["apple", "mango", "orange" , "banana", "Kiwi"];
 

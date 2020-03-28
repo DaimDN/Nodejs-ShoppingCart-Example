@@ -1,0 +1,27 @@
+{
+  "name": "date-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "node": "^13.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaimDN/Nodejs-ShoppingCart-Example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaimDN/Nodejs-ShoppingCart-Example/issues"
+  },
+  "homepage": "https://github.com/DaimDN/Nodejs-ShoppingCart-Example#readme"
+}
